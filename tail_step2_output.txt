@@ -1,0 +1,10 @@
+=== CODING CHALLENGE #141: STEP 2 INITIALIZED ===
+TRACE: Sample test file created with 12 lines at F:\Documents\CTU\PYTHON CODE\Coding Challenge #141\test_sample_step2.txt
+TRACE: Parsed custom line count from arguments: 4
+TRACE: Extracted last 4 lines successfully using custom argument
+--- TAIL OUTPUT RESULTS (-n 4) ---
+Custom Test Line 9
+Custom Test Line 10
+Custom Test Line 11
+Custom Test Line 12
+=== STEP 2 EXECUTION COMPLETED SUCCESSFULLY ===

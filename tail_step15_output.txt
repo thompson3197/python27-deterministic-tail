@@ -1,0 +1,9 @@
+=== CODING CHALLENGE #141: STEP 15 INITIALIZED (ADVANCED EXTENSION 2) ===
+TRACE: Sample log test file created at F:\Documents\CTU\PYTHON CODE\Coding Challenge #141\test_sample_step15.txt
+TRACE: Parsed exclusion pattern from arguments: 'DEBUG'
+TRACE: Excluded matching lines successfully (3 lines retained)
+--- INVERTED MATCHING OUTPUT RESULTS (--exclude DEBUG) ---
+INFO: Application boot initialized
+WARNING: High CPU utilization observed
+ERROR: Failed database ping response
+=== STEP 15 EXECUTION COMPLETED SUCCESSFULLY ===

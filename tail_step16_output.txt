@@ -1,0 +1,10 @@
+=== CODING CHALLENGE #141: STEP 16 INITIALIZED (ADVANCED EXTENSION 3) ===
+TRACE: Sample binary test file created with 25 bytes at F:\Documents\CTU\PYTHON CODE\Coding Challenge #141\test_sample_step16.bin
+TRACE: Extraction at normal offset 15 successful (10 bytes)
+TRACE: Overflow offset 100 clamped successfully (0 bytes yielded)
+TRACE: Underflow offset -50 clamped successfully (25 bytes yielded)
+--- BOUNDARY CLAMPING OUTPUT RESULTS ---
+Normal Offset (15): PQRSTUVWXY
+Overflow Offset (100 -> clamped): [EOF Reached]
+Underflow Offset (-50 -> clamped to 0): ABCDEFGHIJ
+=== STEP 16 EXECUTION COMPLETED SUCCESSFULLY ===

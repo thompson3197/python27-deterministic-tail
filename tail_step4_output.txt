@@ -1,0 +1,7 @@
+=== CODING CHALLENGE #141: STEP 4 INITIALIZED ===
+TRACE: Sample binary test file created with 30 bytes at F:\Documents\CTU\PYTHON CODE\Coding Challenge #141\test_sample_step4.txt
+TRACE: Parsed custom byte count from arguments: 12
+TRACE: Extracted last 12 bytes successfully using custom argument
+--- TAIL OUTPUT RESULTS (-c 12) ---
+90KLMNOPQRST
+=== STEP 4 EXECUTION COMPLETED SUCCESSFULLY ===

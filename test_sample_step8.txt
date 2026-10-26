@@ -1,0 +1,4 @@
+Initial Baseline Line 1
+Follow Appended Line 1
+Follow Appended Line 2
+Follow Appended Line 3

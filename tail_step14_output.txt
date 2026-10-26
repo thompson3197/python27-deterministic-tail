@@ -1,0 +1,8 @@
+=== CODING CHALLENGE #141: STEP 14 INITIALIZED (ADVANCED EXTENSION 1) ===
+TRACE: Sample log test file created at F:\Documents\CTU\PYTHON CODE\Coding Challenge #141\test_sample_step14.txt
+TRACE: Parsed filter pattern from arguments: 'CRITICAL'
+TRACE: Filtered 2 matching lines successfully
+--- PATTERN FILTERING OUTPUT RESULTS (-e CRITICAL) ---
+CRITICAL: Database connection timeout detected
+CRITICAL: Authentication handshake failed
+=== STEP 14 EXECUTION COMPLETED SUCCESSFULLY ===

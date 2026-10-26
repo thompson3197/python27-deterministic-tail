@@ -1,0 +1,5 @@
+INFO: System startup completed normally
+DEBUG: Initializing memory pools
+CRITICAL: Database connection timeout detected
+INFO: Retrying connection attempt 1
+CRITICAL: Authentication handshake failed

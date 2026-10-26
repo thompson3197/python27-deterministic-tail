@@ -1,0 +1,5 @@
+INFO: Application boot initialized
+DEBUG: Verbose memory state dump line 1
+WARNING: High CPU utilization observed
+DEBUG: Verbose memory state dump line 2
+ERROR: Failed database ping response
