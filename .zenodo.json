@@ -1,0 +1,20 @@
+{
+  "title": "A Deterministic, Low-Latency Software KVM Architecture in Python 2.7",
+  "upload_type": "software",
+  "description": "Complete 24-part modular implementation of a deterministic, low-latency Software Keyboard, Video, and Mouse (KVM) multiplexing tool featuring fixed 32-byte binary packet layouts and strict assertion invariants.",
+  "creators": [
+    {
+      "name": "Thompson, Dr. Travis Lee",
+      "orcid": "0009-0001-7917-0306"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "Software KVM",
+    "Python 2.7",
+    "Deterministic Systems",
+    "Binary Serialization",
+    "Network Protocols"
+  ]
+}
